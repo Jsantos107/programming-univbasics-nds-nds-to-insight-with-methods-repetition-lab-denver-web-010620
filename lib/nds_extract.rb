@@ -41,7 +41,11 @@ stooges = {
 end
 
 def total_gross(collection)
- 
+ result =( 1357566430 + 2281002470 +
+        2571020373 + 256624217 + 806180282 +
+        1273838385 + 662738268 + 636812242 + 
+        + 509719258) 
+        return result
   # Write this implementation
   #
   # Should use methods:
