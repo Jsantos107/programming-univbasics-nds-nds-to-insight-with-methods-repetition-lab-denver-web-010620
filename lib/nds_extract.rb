@@ -37,7 +37,7 @@ result = {
         "Quentin Tarantino"=>662738268,
         "Martin Scorsese"=>636812242,
         "Francis Ford Coppola"=>509719258}
-        return result
+        p result
 end
 
 def total_gross(collection)
